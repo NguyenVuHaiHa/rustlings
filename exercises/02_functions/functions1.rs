@@ -5,6 +5,11 @@
 
 // I AM NOT DONE
 
+// define call_me function
+fn call_me() {
+    println!("call_me() called");
+}
+
 fn main() {
     call_me();
 }
